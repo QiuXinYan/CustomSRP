@@ -1,0 +1,360 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.13f1c1 (93b9df9a3ddc) revision 9681375'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19044.1706; Version 2009; 64bit' Language: 'zh' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\unity\2020.3.13f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+E:/unityproject/TAART/SRPLearning
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+8549
+Successfully changed project path to: E:/unityproject/TAART/SRPLearning
+E:/unityproject/TAART/SRPLearning
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 17.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1c1 (93b9df9a3ddc)
+[Subsystems] Discovering subsystems at path D:/unity/2020.3.13f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/unityproject/TAART/SRPLearning/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'D:/unity/2020.3.13f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/2020.3.13f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity/2020.3.13f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56928
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/2020.3.13f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003074 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.887 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 15.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.369 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.51 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.5 MB.
+System memory in use after: 41.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 855.
+Total: 27.121800 ms (FindLiveObjects: 0.194500 ms CreateObjectMapping: 0.032500 ms MarkObjects: 26.731500 ms  DeleteObjects: 0.159400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat
+  artifactKey: Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat using Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6019ec76f44a7cfa8173f44734cb38cc') in 3.714700 seconds 
+  Import took 3.758002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011191 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene/LightingData.asset
+  artifactKey: Guid(2ff06b07fd7317c4f845e9e791ab4eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene/LightingData.asset using Guid(2ff06b07fd7317c4f845e9e791ab4eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b3008421b45b32d17c64b756f7be1d') in 0.123821 seconds 
+  Import took 0.272659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033706 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/planeMat.mat
+  artifactKey: Guid(f6c3f2ed960d5584bb7ca321df53df07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/planeMat.mat using Guid(f6c3f2ed960d5584bb7ca321df53df07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f5e1041250dcf8ee92be4f5dd99b3f9') in 0.102900 seconds 
+  Import took 0.190563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene/ReflectionProbe-0.exr
+  artifactKey: Guid(d1fc36ee410ee054aa27c2a45668e774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene/ReflectionProbe-0.exr using Guid(d1fc36ee410ee054aa27c2a45668e774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41412ce5a7107caf78b560916834fef7') in 0.549152 seconds 
+  Import took 0.581878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1138.144304 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene.unity
+  artifactKey: Guid(2aea35e8365d7ba459d99913e8bed880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene.unity using Guid(2aea35e8365d7ba459d99913e8bed880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e414fdd819fbc958bc15ada1193f00') in 0.122148 seconds 
+  Import took 0.215799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039072 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene.unity
+  artifactKey: Guid(2aea35e8365d7ba459d99913e8bed880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene.unity using Guid(2aea35e8365d7ba459d99913e8bed880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e414fdd819fbc958bc15ada1193f00') in 0.003652 seconds 
+  Import took 0.034567 seconds .
+
+========================================================================
+Received Prepare
+Switching render pipeline 8197ca8bf8f4cf74ab80c0c98b497f1a -> b683eecf40422a843aec65471e340c5a
+Refreshing native plugins compatible for Editor in 58.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 36.4 MB.
+System memory in use after: 36.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 902.
+Total: 105.820200 ms (FindLiveObjects: 2.403600 ms CreateObjectMapping: 0.046900 ms MarkObjects: 103.253000 ms  DeleteObjects: 0.113600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1157.436858 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scripts/SRP002Pipeline.cs
+  artifactKey: Guid(196fdc9e654406d488902993b9cc2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scripts/SRP002Pipeline.cs using Guid(196fdc9e654406d488902993b9cc2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17a99c1b01116194f1a883e4bff1d7b') in 0.103643 seconds 
+  Import took 0.229472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020106 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scripts/SRP002Pipeline.cs
+  artifactKey: Guid(196fdc9e654406d488902993b9cc2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scripts/SRP002Pipeline.cs using Guid(196fdc9e654406d488902993b9cc2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17a99c1b01116194f1a883e4bff1d7b') in 0.002786 seconds 
+  Import took 0.004567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3403.493436 seconds.
+  path: Assets/Custom SRP/Assets
+  artifactKey: Guid(980478b45d22c7c41880d327ba301e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets using Guid(980478b45d22c7c41880d327ba301e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db3a77d1cc4cf77254d88c0a4afc8ec') in 0.157670 seconds 
+  Import took 0.262126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.864020 seconds.
+  path: Assets/Custom SRP/Assets/PBRtextures
+  artifactKey: Guid(8431649dfd29196479a8163ae05c8aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets/PBRtextures using Guid(8431649dfd29196479a8163ae05c8aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa06bb872496d76578d61d6473bd9825') in 0.061882 seconds 
+  Import took 0.119503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048029 seconds.
+  path: Assets/Custom SRP/Assets/PBRtextures/albedo.png
+  artifactKey: Guid(727f4e7858bc6a74eadce3277f90b096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets/PBRtextures/albedo.png using Guid(727f4e7858bc6a74eadce3277f90b096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bf1ec78c479f3f7757020009a529d3') in 9.064691 seconds 
+  Import took 9.272797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Custom SRP/Assets/PBRtextures/metallic.png
+  artifactKey: Guid(9b4014f5a2d51e3489649a1c23e40e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets/PBRtextures/metallic.png using Guid(9b4014f5a2d51e3489649a1c23e40e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc724d69ef35f70992ecbb9a60dbe6b') in 0.215114 seconds 
+  Import took 0.369218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Custom SRP/Assets/PBRtextures/normal.png
+  artifactKey: Guid(69fcc383401f4a549847f8c46894e84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets/PBRtextures/normal.png using Guid(69fcc383401f4a549847f8c46894e84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf90e5b0d4fd4855df17a413438a8a29') in 0.200008 seconds 
+  Import took 0.280164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Custom SRP/Assets/PBRtextures/ao.png
+  artifactKey: Guid(079809d0a62dc1245817a67c171f793f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets/PBRtextures/ao.png using Guid(079809d0a62dc1245817a67c171f793f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c542f21c7c36fefc6af8f3053538813') in 0.222495 seconds 
+  Import took 0.407822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/Custom SRP/Assets/PBRtextures/roughness.png
+  artifactKey: Guid(5e7fa795026368c4793a84774db7e06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/Assets/PBRtextures/roughness.png using Guid(5e7fa795026368c4793a84774db7e06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7cef1c188e2b863765d5a03c224604a') in 0.099075 seconds 
+  Import took 0.219814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 783.868152 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Shader.shader
+  artifactKey: Guid(4bd6a43d65f770c41b505a006f191447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Shader.shader using Guid(4bd6a43d65f770c41b505a006f191447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a196c3b97c85c2c0a7fe748ca03bd8b5') in 0.517258 seconds 
+  Import took 0.711731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.711830 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Shader.shader
+  artifactKey: Guid(4bd6a43d65f770c41b505a006f191447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Shader.shader using Guid(4bd6a43d65f770c41b505a006f191447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb35fe8b069e635274d5f299bcb83720') in 0.024479 seconds 
+  Import took 0.129537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.895833 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Shader.shader
+  artifactKey: Guid(4bd6a43d65f770c41b505a006f191447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Shader.shader using Guid(4bd6a43d65f770c41b505a006f191447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78aa49033e19c0feb5bc7e195cb4e1b2') in 0.005126 seconds 
+  Import took 0.155953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9782.264331 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat
+  artifactKey: Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat using Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac91c6f01bea366554aac77ef0c8c12') in 7.022934 seconds 
+  Import took 7.184869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.327834 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat
+  artifactKey: Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat using Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3917d5ff241943dd5e8f35eeee9491') in 0.150075 seconds 
+  Import took 0.195465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4142.794162 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat
+  artifactKey: Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Shaders/SRP002Mat.mat using Guid(d2eee9838ab2b924fbe9edeb79e335d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c408994dc3a0b318789fa349281cff4a') in 1.359429 seconds 
+  Import took 1.496329 seconds .
+
+========================================================================
+Received Prepare
+Switching render pipeline b683eecf40422a843aec65471e340c5a -> 6cc7af9f517e9594392f9a2f2fa4f30d
+Refreshing native plugins compatible for Editor in 331.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 36.5 MB.
+System memory in use after: 36.6 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 904.
+Total: 1555.849400 ms (FindLiveObjects: 49.944100 ms CreateObjectMapping: 0.060000 ms MarkObjects: 1461.635500 ms  DeleteObjects: 41.006300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2222.676512 seconds.
+  path: Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene/LightingData.asset
+  artifactKey: Guid(2ff06b07fd7317c4f845e9e791ab4eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom SRP/002 TAA & PCSS/Scenes/TAAScene/LightingData.asset using Guid(2ff06b07fd7317c4f845e9e791ab4eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cfdb2080b19930532ee60b158e1f48') in 1.133600 seconds 
+  Import took 1.307171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.819755 seconds.
+  path: Assets/Catlike Coding/Materials/PlaneMat.mat
+  artifactKey: Guid(df3bd1f7b5edeff4194cc03bd0ecf799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catlike Coding/Materials/PlaneMat.mat using Guid(df3bd1f7b5edeff4194cc03bd0ecf799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fe211e712eb7401f6615ee74186913') in 4.558685 seconds 
+  Import took 4.606102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.016205 seconds.
+  path: Assets/Catlike Coding/Custom RP/profiles
+  artifactKey: Guid(cc335808aedf46a479e2842b907d98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catlike Coding/Custom RP/profiles using Guid(cc335808aedf46a479e2842b907d98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019d707286b09ba22f0d1b005324dddb') in 0.085692 seconds 
+  Import took 0.225681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199879 seconds.
+  path: Assets/Catlike Coding/Custom RP/profiles
+  artifactKey: Guid(cc335808aedf46a479e2842b907d98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catlike Coding/Custom RP/profiles using Guid(cc335808aedf46a479e2842b907d98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019d707286b09ba22f0d1b005324dddb') in 0.004321 seconds 
+  Import took 0.007277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.403068 seconds.
+  path: Assets/Catlike Coding/Custom RP/Profiles
+  artifactKey: Guid(cc335808aedf46a479e2842b907d98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catlike Coding/Custom RP/Profiles using Guid(cc335808aedf46a479e2842b907d98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ea8348ed9923e5c0ecb44f120b2af0') in 0.097939 seconds 
+  Import took 0.101306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.174489 seconds.
+  path: Assets/Catlike Coding/Scenes/SRP004.unity
+  artifactKey: Guid(f8c7c4be8be2d3848a7b8a881c28dc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catlike Coding/Scenes/SRP004.unity using Guid(f8c7c4be8be2d3848a7b8a881c28dc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3f596e007a304c6ca69113ecae7c4b') in 0.928703 seconds 
+  Import took 0.932822 seconds .
+
+========================================================================
+Received Prepare
+Switching render pipeline b683eecf40422a843aec65471e340c5a -> 8197ca8bf8f4cf74ab80c0c98b497f1a
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 36.5 MB.
+System memory in use after: 36.6 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 904.
+Total: 4.586000 ms (FindLiveObjects: 0.156300 ms CreateObjectMapping: 0.043400 ms MarkObjects: 4.246800 ms  DeleteObjects: 0.136900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

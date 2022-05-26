@@ -1,0 +1,4 @@
+E:\unityproject\TAART\SRPLearning\obj\Debug\Assembly-CSharp.Player.csprojAssemblyReference.cache
+E:\unityproject\TAART\SRPLearning\obj\Debug\Assembly-CSharp.Player.csproj.CoreCompileInputs.cache
+E:\unityproject\TAART\SRPLearning\obj\Debug\Assembly-CSharp.dll
+E:\unityproject\TAART\SRPLearning\obj\Debug\Assembly-CSharp.pdb
